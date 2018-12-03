@@ -1,0 +1,5 @@
+#install modules
+pip install psychopg2(postgres sql)
+import psycopg2
+
+apt-get install pgadmin3
